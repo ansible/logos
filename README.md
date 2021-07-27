@@ -54,3 +54,9 @@ Receptor is an overlay network intended to ease the distribution of work across 
 Project: [https://github.com/ansible/receptor](https://github.com/ansible/receptor)
 
 ![receptor logo](receptor.png)
+
+# Visual Studio Code Ansible Extension
+
+Project: [https://github.com/ansible-community/vscode-ansible](https://github.com/ansible-community/vscode-ansible)
+
+![vscode ansible logo](vscode-ansible.png)
