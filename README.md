@@ -36,7 +36,7 @@ Ansible Runner is a tool and python library that helps when interfacing with Ans
 
 Project: [https://github.com/ansible/ansible-runner](https://github.com/ansible/ansible-runner)
 
-![ansible runner logo](ansible-runner.png)
+![ansible runner logo](ansible-runner/ansible-runner.png)
 
 # Ansible Workshop
 
