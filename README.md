@@ -18,7 +18,7 @@ Platform feature name: **execution environment builder**
 
 A new command line tool that creates new or layers on existing execution environment containers. This tool ensures all components needed for Ansible execution, such as Ansible Core, Python packages and all collections are added to the container.
 
-![ansible builder logo](ansible-builder.png)
+![ansible builder logo](ansible-builder/ansible-builder.png)
 
 # Ansible Demo
 
