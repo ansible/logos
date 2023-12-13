@@ -3,11 +3,40 @@ This is a repostiory of official community upstream logos for different Ansible 
 
 [Check out this blog post](https://opensource.com/article/21/4/ansible-community-logos)
 
-# These logos are trademarked
+## Logo trademarks
 
 Check out our [TRADEMARKS.md](TRADEMARKS.md)
 
 Also logos have [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## Usage guidelines
+
+Ansible brand assets are for the approved use of Ansible partners, vendors, press and community members.
+Use the Ansible logos and marks for presentations about your use of Ansible and Ansible products to user groups and in other community settings.
+However, please use assets as indicated below.
+Any use of the Ansible logos and marks without Ansible approval is prohibited.
+
+## Correct logo use
+
+The Ansible "A" should always appear inside the circle, never outside of the circle.
+
+For example, the following is correct use of the white logo:
+
+![correct use of the white logo](community-usage/correct-use-white.png)
+
+In the following example, the mango logo is used correctly:
+
+![correct use of the mango logo](community-usage/correct-use-mango.png)
+
+### Incorrect logo use
+
+In contrast to the preceding example, the following is misuse of the white logo:
+
+![incorrect use of the white logo](community-usage/misuse-white.png)
+
+The following shows misuse of the mango logo:
+
+![incorrect use of the mango logo](community-usage/misuse-mango.png)
 
 # Ansible Builder
 
