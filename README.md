@@ -4,27 +4,42 @@ This is a repostiory of official community upstream logos for different Ansible 
 
 [Check out this blog post](https://opensource.com/article/21/4/ansible-community-logos)
 
-## Logos and Icons
-
-| Logo | Icon
-| --- | ---
-| <img src="awx/awx-logo.png" height="64" style="background-color:#000; padding:3px; border-radius:8px;"> | <img src="awx/awx-icon.png" height="48" width="48" style="background-color:#fff; padding:3px; border-radius:8px;"> <img src="awx/awx-icon.png" height="48" width="48" style="background-color:#000; padding:3px; border-radius:8px;"> <img src="awx/awx-icon.png" height="16" width="16" style="background-color:#fff; padding:3px; border-radius:8px"> <img src="awx/awx-icon.png" height="16" width="16" style="background-color:#000; padding:3px; border-radius:8px;">
-| <img src="eda/eda-logo.png" height="64" style="background-color:#000; padding:3px; border-radius:8px;"> | <img src="eda/eda-icon.png" height="48" width="48" style="background-color:#fff; padding:3px; border-radius:8px;"> <img src="eda/eda-icon.png" height="48" width="48" style="background-color:#000; padding:3px; border-radius:8px;"> <img src="eda/eda-icon.png" height="16" width="16" style="background-color:#fff; padding:3px; border-radius:8px;"> <img src="eda/eda-icon.png" height="16" width="16" style="background-color:#000; padding:3px; border-radius:8px;">
-| <img src="galaxy/galaxy-logo.png" height="64" style="background-color:#000; padding:3px; border-radius:8px;"> | <img src="galaxy/galaxy-icon.png" height="48" width="48" style="background-color:#fff; padding:3px; border-radius:8px;"> <img src="galaxy/galaxy-icon.png" height="48" width="48" style="background-color:#000; padding:3px; border-radius:8px;"> <img src="galaxy/galaxy-icon.png" height="16" width="16" style="background-color:#fff; padding:3px; border-radius:8px;"> <img src="galaxy/galaxy-icon.png" height="16" width="16" style="background-color:#000; padding:3px; border-radius:8px;">
-
-- Logo is used in the application masthead.
-  - Logo = 64px high
-  - Logos are always on a black background in the applications.
-- Icons are used in the browser tab and the desktop.
-  - Desktop icons = 48x48px
-  - Browser tab icons = 16x16px
-  - Icons need to support good on both light and dark themes.
-
 ## These logos are trademarked
+
+## Logo trademarks
 
 Check out our [TRADEMARKS.md](TRADEMARKS.md)
 
 Also logos have [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## Usage guidelines
+
+Ansible brand assets are for the approved use of Ansible partners, vendors, press and community members.
+Use the Ansible logos and marks for presentations about your use of Ansible and Ansible products to user groups and in other community settings.
+However, please use assets as indicated below.
+Any use of the Ansible logos and marks without Ansible approval is prohibited.
+
+## Correct logo use
+
+The Ansible "A" should always appear inside the circle, never outside of the circle.
+
+For example, the following is correct use of the white logo:
+
+![correct use of the white logo](community-usage/correct-use-white.png)
+
+In the following example, the mango logo is used correctly:
+
+![correct use of the mango logo](community-usage/correct-use-mango.png)
+
+### Incorrect logo use
+
+In contrast to the preceding example, the following is misuse of the white logo:
+
+![incorrect use of the white logo](community-usage/misuse-white.png)
+
+The following shows misuse of the mango logo:
+
+![incorrect use of the mango logo](community-usage/misuse-mango.png)
 
 ## Ansible Builder
 
@@ -77,3 +92,19 @@ Project: [https://github.com/ansible/receptor](https://github.com/ansible/recept
 Project: [https://github.com/ansible-community/vscode-ansible](https://github.com/ansible-community/vscode-ansible)
 
 ![vscode ansible logo](vscode-ansible-logo/vscode-ansible.png)
+
+## Product Logos and Icons
+
+| Logo | Icon
+| --- | ---
+| <img src="awx/awx-logo.png" height="64" style="background-color:#000; padding:3px; border-radius:8px;"> | <img src="awx/awx-icon.png" height="48" width="48" style="background-color:#fff; padding:3px; border-radius:8px;"> <img src="awx/awx-icon.png" height="48" width="48" style="background-color:#000; padding:3px; border-radius:8px;"> <img src="awx/awx-icon.png" height="16" width="16" style="background-color:#fff; padding:3px; border-radius:8px"> <img src="awx/awx-icon.png" height="16" width="16" style="background-color:#000; padding:3px; border-radius:8px;">
+| <img src="eda/eda-logo.png" height="64" style="background-color:#000; padding:3px; border-radius:8px;"> | <img src="eda/eda-icon.png" height="48" width="48" style="background-color:#fff; padding:3px; border-radius:8px;"> <img src="eda/eda-icon.png" height="48" width="48" style="background-color:#000; padding:3px; border-radius:8px;"> <img src="eda/eda-icon.png" height="16" width="16" style="background-color:#fff; padding:3px; border-radius:8px;"> <img src="eda/eda-icon.png" height="16" width="16" style="background-color:#000; padding:3px; border-radius:8px;">
+| <img src="galaxy/galaxy-logo.png" height="64" style="background-color:#000; padding:3px; border-radius:8px;"> | <img src="galaxy/galaxy-icon.png" height="48" width="48" style="background-color:#fff; padding:3px; border-radius:8px;"> <img src="galaxy/galaxy-icon.png" height="48" width="48" style="background-color:#000; padding:3px; border-radius:8px;"> <img src="galaxy/galaxy-icon.png" height="16" width="16" style="background-color:#fff; padding:3px; border-radius:8px;"> <img src="galaxy/galaxy-icon.png" height="16" width="16" style="background-color:#000; padding:3px; border-radius:8px;">
+
+- Logo is used in the application masthead.
+  - Logo = 64px high
+  - Logos are always on a black background in the applications.
+- Icons are used in the browser tab and the desktop.
+  - Desktop icons = 48x48px
+  - Browser tab icons = 16x16px
+  - Icons need to support good on both light and dark themes.
