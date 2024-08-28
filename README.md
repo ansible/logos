@@ -77,7 +77,7 @@ Logo for official Ansible Automation Workshops
 
 Project: [https://ansible.com/workshops](https://ansible.com/workshops)
 
-![ansible workshop logo](ansible-workshop.png)
+![ansible workshop logo](misc/ansible-workshop.png)
 
 ## Receptor
 
