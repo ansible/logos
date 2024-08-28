@@ -61,7 +61,7 @@ Examples of project repos using Ansible Demo Logo
 - [https://github.com/ansible/product-demos/](https://github.com/ansible/product-demos/)
 - [https://github.com/ansible/instruqt/](https://github.com/ansible/instruqt/)
 
-![ansible demo logo](ansible-demo.png)
+![ansible demo logo](misc/ansible-demo.png)
 
 ## Ansible Runner
 
