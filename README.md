@@ -1,6 +1,6 @@
 # Ansible Logos
 
-This is a repostiory of official community upstream logos for different Ansible projects.
+This is a repository of official community upstream logos for different Ansible projects.
 
 [Check out this blog post](https://opensource.com/article/21/4/ansible-community-logos)
 
