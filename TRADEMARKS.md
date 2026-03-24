@@ -29,6 +29,7 @@ ansible-builder
 ansible-navigator
 ansible-demo
 ansible-workshops
+awx-tui
 
 ### 3.2. Our logo (the "Logo"):
 

@@ -93,6 +93,14 @@ Project: [https://github.com/ansible-community/vscode-ansible](https://github.co
 
 ![vscode ansible logo](vscode-ansible-logo/vscode-ansible.png)
 
+## AWX TUI
+
+A Textual User Interface for [AWX](https://github.com/ansible/awx).
+
+Project: [https://github.com/ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+
+![awx-tui logo](awx-tui/awx-tui.png)
+
 ## Product Logos and Icons
 
 | Logo | Icon
